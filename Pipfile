@@ -9,6 +9,7 @@ verify_ssl = true
 django = "*"
 djangorestframework = "*"
 djangorestframework-simplejwt= "*"
+django-filters= "*"
 pyjwt = "*"
 drf-yasg = "*"
 gunicorn = "*"
