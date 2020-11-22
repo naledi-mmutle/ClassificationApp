@@ -66,14 +66,6 @@
             "index": "pypi",
             "version": "==3.0.7"
         },
-        "djangorestframework-simplejwt": {
-            "hashes": [
-                "sha256:5383639106cbc561044d0893a5bfd22dd98b30a11b5e2f7e9da77b333fa6c0b7",
-                "sha256:5fb5153a9051fefe6229492e8b42a4c03b6ee802ea1865c944ff09088fe7340f"
-            ],
-            "index": "pypi",
-            "version": "==4.6.0"
-        },
         "django-cors-headers": {
             "hashes": [
                 "sha256:48d267c10d11d8e17805bf896071c0a3e8efb6f79f6634a90e6faac4c2f8a1a0",
